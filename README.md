@@ -1,6 +1,9 @@
 # calculator
 
-A new Flutter project.
+
+
+this is basic functional calculator created with flutter  there is some improvment need to make.
+please tell me my mistakes on this application if you see any ... fill free to  use this app it  take a day mabey to write it and it was fun...!
 
 ## Getting Started
 
